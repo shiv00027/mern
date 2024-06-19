@@ -1,0 +1,78 @@
+.table-1,.th1,.td1{
+    border: solid;
+    border-radius:20px;
+ }
+ .table-1{
+     width:85%;
+     background-color:rgb(132, 223, 223);
+     border-left:0px;
+ }
+ .table-1,.th1,.td1{
+     border-radius:20px;
+ }
+ #shape-1 {
+     width:110px;
+     height:80px;
+     border-radius:8px;
+     border:solid;
+     border-color:yellowgreen;
+     
+   }
+   #shape-2 {
+     width:110px;
+     height:80px;
+     border-radius:10px;
+     border:solid;
+     border-color:yellowgreen;
+     
+   }
+ 
+   #shape-3 {
+       border:solid yellowgreen;
+       width:110px;
+       height:80px;
+       border-radius:19px;     
+   }
+   #shape-4{
+     border:solid yellowgreen;
+     width:110px;
+     height:80px;
+     border-radius:10px;
+   }
+   #shape-5{
+     border:solid yellowgreen;
+     width:110px;
+     height:80px;
+     border-radius:6px;
+   }
+   #shape-6{
+       border:solid yellowgreen;
+       width:110px;
+       height:80px;
+       border-radius:19px;
+   }
+   #shape-7{
+     border:solid yellowgreen;
+     width:130px;
+     height:80px;
+     border-radius: 50%;
+   }
+   #shape-8{
+     border:solid yellowgreen;
+     width:110px;
+     height:80px;
+     border-radius:7px;
+   }
+   #shape-9{
+     border:solid yellowgreen;
+     width:110px;
+     height:80px;
+     border-bottom-left-radius:35px;
+     border-top-left-radius:9px;
+     border-top-right-radius:20px;
+     border-bottom-right-radius:11px;
+   }
+   .table-2{
+     border-spacing:15px;
+    }
+ 

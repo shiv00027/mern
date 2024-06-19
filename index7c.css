@@ -1,0 +1,43 @@
+.t7div1{
+    border:1px solid;
+    width: 800px;
+    height:600px;
+    margin-left:300px;
+    background-color:rgb(162, 42, 87);
+  }
+  .t7div2{
+    border:1px solid;
+    width: 520px;
+    height:500px;
+    margin-top: 40px;
+    margin-left:130px;
+    background-color: rgb(117, 32, 65);
+  
+  }
+  .row-5 td{
+    display:flex;
+  }
+  .i1{
+    height:23px;
+    width: 180px;
+    margin-top:15px;
+    
+  }
+  #i7{
+    margin-bottom:25px;
+  }
+  
+  .tablet7{
+    margin-left:70px;
+    margin-top:30px;
+    color:white;
+  }
+  .b7{
+    margin-left:15px;
+    margin-top:10px;
+    width:300px;
+    height:40px; 
+    border-radius:7px;
+    font-weight:bold;
+  }
+  

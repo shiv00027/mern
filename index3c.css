@@ -1,0 +1,16 @@
+.table-3{
+    width:90%;
+    border-collapse: collapse;
+  }
+  .tr3{
+    padding:010px;
+    height:50px;
+  }
+  .th3{
+    background-color:rgb(1, 170, 109)}
+  
+  .tr3:nth-child(even){
+    background-color:lightgray;
+  }
+  
+  

@@ -1,0 +1,52 @@
+.t5{
+    border:1px solid;
+    width:50%;
+    height:400px;
+    background-color:rgb(205, 205, 50);
+    display:flex;
+  }
+  
+  .t5a{
+    border:1px solid;
+    width:130px;
+    height:30px;
+    margin-left:30px;
+    margin-top:20px;  
+    text-align:left;
+    background-color:white;
+    
+  }
+  .t5 a{
+    color:Blue;
+    font-weight:bold;
+  }
+  a{
+    padding:7px;
+  }
+  .t5a::after {
+    content: "";
+    position: absolute;
+    top: 20;
+    left: 153px;
+    width: 18px;
+    height: 30px; /* Adjust this value to control the split */
+    background-color: black; /* Blue color */
+  }
+  .t52{
+    margin-left:20px
+  }
+  .t5p{
+    padding-bottom:0px;
+    
+  }
+  .t5h1,p,ul {
+    color:rgba(85, 2, 57, 0.849);
+  
+  }
+   .t5hr{
+    background-color:rgba(85, 2, 57, 0.849);
+    height:2px;
+    border:none;
+  }
+  
+  
